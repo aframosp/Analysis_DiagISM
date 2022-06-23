@@ -30,4 +30,6 @@ The following is the organization of the repository with a simple description of
 The file containing the estimated physical parameters from the observational sample can be found in the [predictions_DiagISM_obsSample.csv](/data/processed) file.
 
 ## Missing data
-Unfortunately not all the raw data is available in the repository. Data from the SIDES lightcone catalog is ~2Gb, then we decided not to included in this repository, but if you want to use it you can check the [webpage](https://cesamsi.lam.fr/instance/sides/home) to obtain the catalogue. 
+Unfortunately not all the raw data is available in the repository. Data from the SIDES lightcone catalog is ~2Gb, then we decided not to included in this repository, but if you want to use it you can check the [webpage](https://cesamsi.lam.fr/instance/sides/home) to obtain the catalogue.
+
+Beside this, the mock_sample.csv file is not stored in Github (~100Mb) and need to be stored locally by running the notebook [AppA_Predictions_newlinreg](/notebooks/AppA_Predictions_newlinreg.ipynb)
