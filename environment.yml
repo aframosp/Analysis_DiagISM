@@ -1,0 +1,17 @@
+name: Repro
+dependencies:
+  - python==3.8.3
+  - r-base=3.6
+  - r-tidyverse
+  - pip
+  - pip:
+    - atom-ml==4.10.0
+    - pandas==1.4.0
+    - numpy==1.22.1
+    - astropy==5.0
+    - autopep8==1.5.7
+    - watermark==2.2.0
+    - matplotlib==3.4.3
+    - scipy==1.7.1
+    - scikit-learn==1.0.1
+    - rpy2==3.4.5

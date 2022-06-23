@@ -1,0 +1,23 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: "Ramos Padilla"
+    given-names: "Andres Felipe"
+    orcid: "https://orcid.org/0000-0002-4561-2452"
+cff-version: "1.1.0"
+keywords: 
+  - astronomy
+  - DiagISM
+  - Galaxies
+  - Evolution
+  - star formation
+  - ISM
+  - high-redshift
+  - lines and bands
+  - numerical
+license: "GPL-3.0"
+message: "If you use this web app, please cite it using these metadata."
+repository-code: "https://github.com/aframosp/Analysis_DiagISM"
+title: Reproduction repository for "Diagnosing the interstellar medium of galaxies with far-infrared emission lines III. Physical parameters of observed galaxies"
+...
