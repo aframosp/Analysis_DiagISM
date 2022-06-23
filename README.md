@@ -3,6 +3,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aframosp/Analysis_DiagISM/HEAD)
 <!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5227294.svg)](https://doi.org/10.5281/zenodo.5227294) -->
 
+[![DOI](https://zenodo.org/badge/506689031.svg)](https://zenodo.org/badge/latestdoi/506689031)
+
+
 This repository contains data and code to reproduce the results of the research "[Diagnosing the interstellar medium of galaxies with far-infrared emission lines III. Physical parameters of observed galaxies]()". Each step of the work is described in a [step-by-step](StepByStep.md) file with their respective [Jupyter notebooks](/notebooks).
 
 ## Software requirements
@@ -32,4 +35,4 @@ The file containing the estimated physical parameters from the observational sam
 ## Missing data
 Unfortunately not all the raw data is available in the repository. Data from the SIDES lightcone catalog is ~2Gb, then we decided not to included in this repository, but if you want to use it you can check the [webpage](https://cesamsi.lam.fr/instance/sides/home) to obtain the catalogue.
 
-Beside this, the mock_sample.csv file is not stored in Github (~100Mb) and need to be stored locally by running the notebook [AppA_Predictions_newlinreg](/notebooks/AppA_Predictions_newlinreg.ipynb)
+Beside this, the mock_sample.csv file is not stored in Github (~100Mb) and need to be stored locally by running the notebook [AppA_Predictions_newlinreg](/notebooks/AppA_Predictions_newlinreg.ipynb).
